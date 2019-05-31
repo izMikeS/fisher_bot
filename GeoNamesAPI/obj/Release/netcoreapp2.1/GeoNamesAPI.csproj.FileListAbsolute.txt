@@ -1,0 +1,11 @@
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\bin\Release\netcoreapp2.1\GeoNamesAPI.deps.json
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\bin\Release\netcoreapp2.1\GeoNamesAPI.dll
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\bin\Release\netcoreapp2.1\GeoNamesAPI.pdb
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.csprojAssemblyReference.cache
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.csproj.CoreCompileInputs.cache
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.AssemblyInfoInputs.cache
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.AssemblyInfo.cs
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.csproj.CopyComplete
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.dll
+C:\Users\MFlash\Desktop\fisher_bot\GeoNamesAPI\obj\Release\netcoreapp2.1\GeoNamesAPI.pdb

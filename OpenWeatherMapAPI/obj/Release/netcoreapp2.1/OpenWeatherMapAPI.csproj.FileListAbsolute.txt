@@ -1,0 +1,11 @@
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\bin\Release\netcoreapp2.1\OpenWeatherMapAPI.deps.json
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\bin\Release\netcoreapp2.1\OpenWeatherMapAPI.dll
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\bin\Release\netcoreapp2.1\OpenWeatherMapAPI.pdb
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.csprojAssemblyReference.cache
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.AssemblyInfo.cs
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.csproj.CopyComplete
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.dll
+C:\Users\MFlash\Desktop\fisher_bot\OpenWeatherMapAPI\obj\Release\netcoreapp2.1\OpenWeatherMapAPI.pdb

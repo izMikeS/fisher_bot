@@ -1,0 +1,9 @@
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\bin\Debug\netcoreapp2.1\FishingForecast.deps.json
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\bin\Debug\netcoreapp2.1\FishingForecast.dll
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\bin\Debug\netcoreapp2.1\FishingForecast.pdb
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\obj\Debug\netcoreapp2.1\FishingForecast.csprojAssemblyReference.cache
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\obj\Debug\netcoreapp2.1\FishingForecast.csproj.CoreCompileInputs.cache
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\obj\Debug\netcoreapp2.1\FishingForecast.AssemblyInfoInputs.cache
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\obj\Debug\netcoreapp2.1\FishingForecast.AssemblyInfo.cs
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\obj\Debug\netcoreapp2.1\FishingForecast.dll
+C:\Users\MFlash\Desktop\fisher_bot\FishingForecast\obj\Debug\netcoreapp2.1\FishingForecast.pdb
